@@ -1,6 +1,12 @@
 # Web-Raiden-SMP-and-Info
 Code By Raiden(Nguyễn Hiếu 2k8)
 # Log:
+[16/2/2023|14h28 CH]Khởi động dự án này
+
+[17/2/2023|14h45 CH]Làm xong trang chính và trang Info
+
+[18/2/2023|6h SA]Đang Thêm Tính năng login và ghi vào DataBase
+
 [19/2/2023|13h40 CH]Cài đặt MySQL Server phiên bản 5.8 để tạo DataBase
 
 [20/2/2023|13h30 CH]Chuyển đổi server web từ nginx sang apache(cụ thể là xampp)để tiện cài đặt phpMyAdmin
@@ -9,6 +15,6 @@ Code By Raiden(Nguyễn Hiếu 2k8)
 
 [21/2/2023|7h06p CH]Thay đổi ngôn ngữ trang web html sang php với mục đích là dễ quản lý hơn trong việc viết code và khai biến trong DataBase(Được khoảng 74%)
 
-[21/2/2023|9h03p CH]Thêm chức năng đăng nhập và lấy dữ liệu vào mysql
+[21/2/2023|9h03p CH]Thêm chức năng đăng nhập và lấy dữ liệu vào MySQL
 
 [21/2/2023|10h06p CH]Chuẩn bị thêm tính năng cho quản trị viên server mc(Dự kiến vào ngày mai)
