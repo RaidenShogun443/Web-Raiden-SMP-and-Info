@@ -3,4 +3,4 @@ Code By Raiden(Nguyễn Hiếu 2k8)
 # Log:
 [21/2/2023|9h03p]thêm chức năng đăng nhập và lấy dữ liệu vào mysql
 
-[21/2/2023|10h06p]chuẩn bị thêm tính năng cho quản trị viên server mc
+[21/2/2023|10h06p]chuẩn bị thêm tính năng cho quản trị viên server mc(Dự kiến vào ngày mai)
