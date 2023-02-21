@@ -20,5 +20,5 @@ Code By Raiden(Nguyễn Hiếu 2k8)
 [21/2/2023|10h06p CH]Chuẩn bị thêm tính năng cho quản trị viên server mc(Dự kiến  vào ngày mai)
  
 # Lý do  tiến độ lại chậm tới vậy là vì tôi còn lo cho việc học và sau khi đỗ xong Trường THPT DC2 Thì cố gắng sẽ xong dự án này
-Và ai xem được dự án này thì tôi xin chúc những người xem ở đây được may mắn,được bình an và hạnh phúc!
+# Và ai xem được dự án này thì tôi xin chúc những người xem ở đây được may mắn,được bình an và hạnh phúc!
 # Cảm ơn mọi người đã quan tâm dự án này của tôi
